@@ -1,0 +1,9 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  pch.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  MFCApplication1.cpp
+  MFCApplication1Dlg.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\Infinite\Desktop\pvz\MFCApplication1\Debug\MFCApplication1.exe 或上一个增量链接没有生成它；正在执行完全链接
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  MFCApplication1.vcxproj -> C:\Users\Infinite\Desktop\pvz\MFCApplication1\Debug\MFCApplication1.exe
